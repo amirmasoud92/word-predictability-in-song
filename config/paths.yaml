@@ -1,0 +1,10 @@
+# Data locations, relative to the repository root. Point the dataset entries at local copies of the public releases.
+derived_root: data/derived
+results_root: results
+mne_data: data/derived/mne_data
+datasets:
+  cantisong: data/raw/cantisong
+  alice: data/raw/alice
+  speech_in_noise: data/raw/speech_in_noise
+  meg_attention: data/raw/meg_attention
+  meg_masc: data/raw/meg_masc

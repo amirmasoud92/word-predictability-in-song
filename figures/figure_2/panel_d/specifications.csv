@@ -1,0 +1,33 @@
+condition,specification,kind,dz,p,p_type,filled
+spoken,primary analysis,variant,0.904688731,0.00025,family-wise (max-t over six specifications),True
+spoken,window 0–600 ms,variant,0.8725615272,0.0005,family-wise (max-t over six specifications),True
+spoken,window 0–1000 ms,variant,0.9040028799,0.00025,family-wise (max-t over six specifications),True
+spoken,centro-parietal channels,variant,0.6193139872,0.01185,family-wise (max-t over six specifications),True
+spoken,lags to 900 ms,variant,1.055106161,0,family-wise (max-t over six specifications),True
+spoken,GPT-2 medium,variant,0.6197906808,0.01175,family-wise (max-t over six specifications),True
+spoken,lexical and acoustic controls,control,0.9469735579,2.574920654e-05,"sign-flip, one-sided",True
+spoken,frequency-matched null,control,0.9708287692,6.866455078e-05,"sign-flip, one-sided",True
+sung,primary analysis,variant,0.7078223084,0.0061,family-wise (max-t over six specifications),True
+sung,window 0–600 ms,variant,0.7478850074,0.0044,family-wise (max-t over six specifications),True
+sung,window 0–1000 ms,variant,0.7085479379,0.00605,family-wise (max-t over six specifications),True
+sung,centro-parietal channels,variant,0.5577241876,0.02695,family-wise (max-t over six specifications),True
+sung,lags to 900 ms,variant,0.675415449,0.00775,family-wise (max-t over six specifications),True
+sung,GPT-2 medium,variant,0.46406404,0.0608,family-wise (max-t over six specifications),False
+sung,lexical and acoustic controls,control,0.8462817054,0.0006093978882,"sign-flip, one-sided",True
+sung,frequency-matched null,control,0.8584082181,0.000509262085,"sign-flip, one-sided",True
+hummed,primary analysis,variant,0.1644579651,0.4924,family-wise (max-t over six specifications),False
+hummed,window 0–600 ms,variant,0.1912698261,0.4384,family-wise (max-t over six specifications),False
+hummed,window 0–1000 ms,variant,0.1735424876,0.47455,family-wise (max-t over six specifications),False
+hummed,centro-parietal channels,variant,0.3140894117,0.2173,family-wise (max-t over six specifications),False
+hummed,lags to 900 ms,variant,0.1745516443,0.4728,family-wise (max-t over six specifications),False
+hummed,GPT-2 medium,variant,0.2928018715,0.24975,family-wise (max-t over six specifications),False
+hummed,lexical and acoustic controls,control,0.1697665107,0.5531616211,"sign-flip, two-sided",False
+hummed,frequency-matched null,control,0.1810640149,0.4826526642,"sign-flip, two-sided",False
+audiobook,primary analysis,variant,0.7442016774,0,family-wise (max-t over six specifications),True
+audiobook,window 0–600 ms,variant,0.7255075824,0,family-wise (max-t over six specifications),True
+audiobook,window 0–1000 ms,variant,0.7354807127,0,family-wise (max-t over six specifications),True
+audiobook,centro-parietal channels,variant,0.6700731234,0,family-wise (max-t over six specifications),True
+audiobook,lags to 900 ms,variant,0.6579876694,0,family-wise (max-t over six specifications),True
+audiobook,GPT-2 medium,variant,0.7687614893,0,family-wise (max-t over six specifications),True
+audiobook,lexical and acoustic controls,control,0.712496576,0.0001,"sign-flip, one-sided",True
+audiobook,frequency-matched null,control,0.6720861965,0.0001,"sign-flip, one-sided",True

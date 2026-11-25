@@ -1,0 +1,18 @@
+{
+ "unit": "word-predictability gain, delta r (plotted x 10^3)",
+ "dz": {
+  "spoken": 0.9046887310423795,
+  "sung": 0.7078223083998966,
+  "hummed": 0.16445796506911653
+ },
+ "sung_minus_spoken": {
+  "dz": -0.14610667486165382,
+  "p": 0.5180912017822266,
+  "alternative": "two-sided"
+ },
+ "sung_minus_hummed": {
+  "dz": 0.3493306563417539,
+  "p": 0.0676412582397461,
+  "alternative": "greater"
+ }
+}

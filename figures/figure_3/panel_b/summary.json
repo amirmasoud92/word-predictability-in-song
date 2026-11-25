@@ -1,0 +1,13 @@
+{
+ "unit": "delta r (plotted x 10^4)",
+ "dz": {
+  "attended": 1.00220859713285,
+  "ignored": 0.14829305881221558
+ },
+ "attended_minus_ignored": {
+  "dz": 0.7018686510463299,
+  "p_holm_13_primary_tests": 0.00026000000000000003,
+  "alternative": "greater"
+ },
+ "sensor_positions": "azimuthal-equidistant projection, head radius 1, nose up"
+}

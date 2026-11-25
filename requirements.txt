@@ -1,0 +1,13 @@
+# Analysis environment (Python 3.11): EEG and MEG preprocessing, encoding models, statistics and figure panels.
+numpy==2.4.6
+scipy==1.17.1
+pandas==3.0.6
+scikit-learn==1.9.1
+statsmodels==0.15.0
+joblib==1.6.0
+mne==1.13.2
+nibabel==5.4.2
+PyYAML==6.0.3
+h5py==3.16.0
+matplotlib==3.11.2
+torch==2.14.0

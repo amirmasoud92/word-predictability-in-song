@@ -1,0 +1,11 @@
+# Parameters of the analyses reported in the paper.
+# Base seed of the random streams (an integer; set before running).
+project: {seed: }
+# EEG cleaning: FASTER epoch criteria, robust channel outliers and the trial exclusion rule.
+preprocessing:
+  epoch_rejection: faster
+  faster_z: 3.0
+  channel_robust_z: 5.0
+  max_bad_epoch_fraction: 0.3333333333
+# Compressed broadband speech envelope (low-pass, intermediate rate and power-law compression).
+envelope: {audio_lowpass_hz: 3500, audio_transition_hz: 1000, intermediate_sfreq: 8000, compression: 0.6}

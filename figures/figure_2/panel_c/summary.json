@@ -1,0 +1,10 @@
+{
+ "unit": "song mean delta r (plotted x 10^3)",
+ "sung_minus_hummed_over_songs": {
+  "n": 18,
+  "n_positive": 14,
+  "dz": 0.5940055331446767,
+  "p": 0.010471343994140625,
+  "alternative": "greater"
+ }
+}
